@@ -33,12 +33,14 @@ git push
 La API que se consume en este proyecto es la de "Rick and Morty" la cual nos sirve para poder usarla dentro de nuestro proyecto en nuestros `Controllers` esto con el fin de poderle pasar los arreglos que se ocupan dentro de nuestra aplicacion.
 
 SI REQUIERE DE INFORMACIÓN DE LA API CONSULTE LA DOCUMENTACIÓN AQUI:
+
 :link: `link` <https://rickandmortyapi.com/documentation/>
 
 ## Controller de API :open_file_folder:
 Dentro del proyecto se encontrara la carpeta de `APP` donde se puede encontrar varios de los archivos del proyecto, pero solo nos fijaremos en la carpeta de `HTTP` y dentro de ella encontraremos nuestros archivos controladores de nuestra aplicacion. En este archivo se podra ver como es el consumo de la API las lineas importantes estan comentadas en el codigo por si requieres de una guia.
 
 SI REQUIERE DE ALGUNA AYUDA NO OLVIDE LEER LA DOCUMENTACIÓN DE LARAVEL:
+
 :link: `link` <https://laravel.com/docs/8.x/readme>
 
 ## Framework (Laravel) :pushpin:
